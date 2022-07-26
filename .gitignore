@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*.gz
+*.csv
+aclImdb
+imdb_bert
+
